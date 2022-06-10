@@ -29,11 +29,12 @@ Python
 Python has many resources for all levels of experience. 
 
 Some general ones for getting started:
-* [*Python for Everybody*](https://www.py4e.com/) 
-* [*Introduction To Python Programming*](https://www.udemy.com/course/pythonforbeginnersintro/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Hrdo.3OzB9u4kSvhJb.AqA&utm_medium=udemyads&utm_source=aff-campaign) 
+* [Python for Everybody](https://www.py4e.com/) 
+* [Introduction To Python Programming (Udemy)](https://www.udemy.com/course/pythonforbeginnersintro/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Hrdo.3OzB9u4kSvhJb.AqA&utm_medium=udemyads&utm_source=aff-campaign) 
 
 Some more advanced onces for data science:
-
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Applied Data Science with Python] (https://cognitiveclass.ai/learn/data-science-with-python)
 
 R
 ----------------------
