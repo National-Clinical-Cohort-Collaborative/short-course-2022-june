@@ -29,12 +29,12 @@ Python
 Python has many resources for all levels of experience. 
 
 Some general ones for getting started:
-* [Python for Everybody](https://www.py4e.com/) 
-* [Introduction To Python Programming (Udemy)](https://www.udemy.com/course/pythonforbeginnersintro/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Hrdo.3OzB9u4kSvhJb.AqA&utm_medium=udemyads&utm_source=aff-campaign) 
+* [*Python for Everybody*](https://www.py4e.com/) 
+* [*Introduction To Python Programming (Udemy)*](https://www.udemy.com/course/pythonforbeginnersintro/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Hrdo.3OzB9u4kSvhJb.AqA&utm_medium=udemyads&utm_source=aff-campaign) 
 
-Some more advanced onces for data science:
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [Applied Data Science with Python] (https://cognitiveclass.ai/learn/data-science-with-python)
+If you like Python and want to learn more, check out:
+* [*Python Data Science Handbook (O'Reilly)*](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [*Python for Data Science*](https://cognitiveclass.ai/courses/python-for-data-science)
 
 R
 ----------------------
@@ -42,6 +42,6 @@ R also has many books for all levels of experience.  These three books are free 
 
 * [*A Primer for Computational Biology*](https://open.oregonstate.education/computationalbiology/) by [Shawn O'Neil](https://som.ucdenver.edu/Profiles/Faculty/Profile/35866), one of our instructors.  Part III is dedicated to R.  Chapters 26-32 provide the basics you'll need for N3C.
 
-If you like R and want to learn more, check out
+If you like R and want to learn more, check out:
 * [*R for Data Science*](https://r4ds.had.co.nz/) by Hadley Wickham & Garrent Grolemund
 * [*Advanced R*](https://adv-r.hadley.nz/) by Hadley Wickham
