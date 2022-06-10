@@ -29,8 +29,8 @@ Python
 Python has many resources for all levels of experience. 
 
 Some general ones for getting started:
-* [*Python for Everybody*](https://www.py4e.com/) 
 * [*Introduction To Python Programming (Udemy)*](https://www.udemy.com/course/pythonforbeginnersintro/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Hrdo.3OzB9u4kSvhJb.AqA&utm_medium=udemyads&utm_source=aff-campaign) 
+* [*Python for Everybody*](https://www.py4e.com/) 
 
 If you like Python and want to learn more, check out:
 * [*Python Data Science Handbook (O'Reilly)*](https://jakevdp.github.io/PythonDataScienceHandbook/)
