@@ -26,10 +26,18 @@ This resources above use SQLite, which is *almost* completely compatible with th
 
 Python
 ----------------------
+Python has many resources for all levels of experience. 
+
+Some general ones for getting started:
+* [*Python for Everybody*](https://www.py4e.com/) 
+* [*Introduction To Python Programming*](https://www.udemy.com/course/pythonforbeginnersintro/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Hrdo.3OzB9u4kSvhJb.AqA&utm_medium=udemyads&utm_source=aff-campaign) 
+
+Some more advanced onces for data science:
+
 
 R
 ----------------------
-R has many books for all levels of experience.  These three books are free online, as well as available as paperback.
+R also has many books for all levels of experience.  These three books are free online, as well as available as paperback.
 
 * [*A Primer for Computational Biology*](https://open.oregonstate.education/computationalbiology/) by [Shawn O'Neil](https://som.ucdenver.edu/Profiles/Faculty/Profile/35866), one of our instructors.  Part III is dedicated to R.  Chapters 26-32 provide the basics you'll need for N3C.
 
