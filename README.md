@@ -18,8 +18,10 @@ Material Online
 
 #### Session 3
 
-* [Data Validation](lessons/session-3/data-validation/README.md)
-* [Data Visualization](lessons/session-3/data-visualization/README.md)
+#### Session 4
+
+* [Data Validation](lessons/session-4/data-validation/README.md)
+* [Data Visualization](lessons/session-4/data-visualization/README.md)
 
 Assets
 --------------------------
