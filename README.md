@@ -26,8 +26,8 @@ Material Online
 
 #### Session 4
 
-* [Data Validation](lessons/session-4/data-validation/README.md) by Will Beasley
-* [Data Visualization](lessons/session-4/data-visualization/README.md) by Will Beasley
+* [Data Validation](lessons/session-4/data-validation/README.md) by [Will Beasley](https://ouhsc.edu/bbmc/team/#willbeasley)
+* [Data Visualization](lessons/session-4/data-visualization/README.md) by [Will Beasley](https://ouhsc.edu/bbmc/team/#willbeasley)
 
 Assets
 --------------------------
