@@ -24,7 +24,7 @@ Material Online
 * [Navigating Foundry](https://github.com/National-COVID-Cohort-Collaborative/short-course-2022-june/blob/main/lessons/session-1/Navigating%20Foundry%201.0.pdf) by [Shawn O'Neil](https://tislab.org/members/shawn-oneil.html)
 * [Concept Set Curation](https://github.com/National-COVID-Cohort-Collaborative/short-course-2022-june/blob/main/lessons/session-1/Concept%20Set%20Curation%201.0.pdf) by [Shawn O'Neil](https://tislab.org/members/shawn-oneil.html)
 * [Intro to Code Workbook Training Module](https://unite.nih.gov/workspace/module/view/latest/ri.workshop.main.module.e7b83a8c-545e-49ac-8714-f34bfa7f7767?view=focus&Id=22) by [Shawn O'Neil](https://tislab.org/members/shawn-oneil.html)
-  * This 31 minute training module video covers everything we covered in class today and more. 
+  * This 31 minute training module video covers everything we covered in class today and more. It also introduces using templates from the Knowledge Store, though the template search interface has changed since the recording.
 
 #### Session 2
 
