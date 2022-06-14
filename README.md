@@ -8,6 +8,8 @@ Material Online
 
 ### Background
 
+* [Protecting N3C Data](background/fear-of-god.md): an important list of rules to follow to protect patient data.  In short, keep everything in the Enclave and use the data only for projects that are specifically approved.  Please read this carefully.
+
 * [Analytical Tools](background/analytical-tools.md): To be productive in the N3C Enclave during this short course, we recommend that you (a) are comfortable with basic SQL and (b) know at least a little Python or R.
 
 ### Daily Sessions
