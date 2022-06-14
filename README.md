@@ -18,14 +18,16 @@ Material Online
 
 #### Session 1
 
+* [Study Design & Project Planning](session-1/n3c-short-../lessons/session-1/n3c-short-course-lab-notebook.pdf) Or: How N3C Researchers (Try to) Organize Their Work, by [Harold Lehmann](https://malonecenter.jhu.edu/people/harold-p-lehmann/).
+
 #### Session 2
 
 #### Session 3
 
 #### Session 4
 
-* [Data Validation](lessons/session-4/data-validation/README.md)
-* [Data Visualization](lessons/session-4/data-visualization/README.md)
+* [Data Validation](lessons/session-4/data-validation/README.md) by Will Beasley
+* [Data Visualization](lessons/session-4/data-visualization/README.md) by Will Beasley
 
 Assets
 --------------------------
