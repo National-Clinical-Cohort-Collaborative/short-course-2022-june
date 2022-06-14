@@ -21,7 +21,7 @@ Material Online
 #### Session 1
 
 * [Study Design & Project Planning](session-1/n3c-short-../lessons/session-1/n3c-short-course-lab-notebook.pdf) Or: How N3C Researchers (Try to) Organize Their Work, by [Harold Lehmann](https://malonecenter.jhu.edu/people/harold-p-lehmann/).
-* [Navigating Foundry](session-1/n3c-short-../lessons/session-1/Navigating%20Foundry%201.0.pdf) by [Shawn O'Neil](https://tislab.org/members/shawn-oneil.html)
+* [Navigating Foundry](session-1/short-course-2022-june/lessons/session-1/Navigating%20Foundry%201.0.pdf) by [Shawn O'Neil](https://tislab.org/members/shawn-oneil.html)
 * [Concept Set Curation](session-1/n3c-short-../lessons/session-1/Concept%Set%20Curation%201.0.pdf) by [Shawn O'Neil](https://tislab.org/members/shawn-oneil.html)
 
 #### Session 2
