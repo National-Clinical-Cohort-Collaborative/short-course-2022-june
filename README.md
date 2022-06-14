@@ -31,4 +31,4 @@ Assets
 Tentative Agenda
 --------------------------
 
-<img src="resources/agenda-screenshot-2022-06-13.png" alt="agenda-screenshot">
+<img src="resources/agenda-screenshot-2022-06-14.png" alt="agenda-screenshot">
