@@ -20,9 +20,11 @@ Material Online
 
 #### Session 1
 
-* [Study Design & Project Planning](session-1/n3c-short-../lessons/session-1/n3c-short-course-lab-notebook.pdf) Or: How N3C Researchers (Try to) Organize Their Work, by [Harold Lehmann](https://malonecenter.jhu.edu/people/harold-p-lehmann/).
+* [Study Design & Project Planning](https://github.com/National-COVID-Cohort-Collaborative/short-course-2022-june/blob/main/lessons/session-1/n3c-short-course-lab-notebook.pdf) Or: How N3C Researchers (Try to) Organize Their Work, by [Harold Lehmann](https://malonecenter.jhu.edu/people/harold-p-lehmann/).
 * [Navigating Foundry](https://github.com/National-COVID-Cohort-Collaborative/short-course-2022-june/blob/main/lessons/session-1/Navigating%20Foundry%201.0.pdf) by [Shawn O'Neil](https://tislab.org/members/shawn-oneil.html)
 * [Concept Set Curation](https://github.com/National-COVID-Cohort-Collaborative/short-course-2022-june/blob/main/lessons/session-1/Concept%20Set%20Curation%201.0.pdf) by [Shawn O'Neil](https://tislab.org/members/shawn-oneil.html)
+* [Intro to Code Workbook Training Module](https://unite.nih.gov/workspace/module/view/latest/ri.workshop.main.module.e7b83a8c-545e-49ac-8714-f34bfa7f7767?view=focus&Id=22) by [Shawn O'Neil](https://tislab.org/members/shawn-oneil.html)
+  * This 31 minute training module video, available in the N3C Training Portal, covers everything we covered in class today, and more. 
 
 #### Session 2
 
