@@ -14,6 +14,8 @@ Material Online
 
 * [Assets](background/assets.md): A running list of the links that that might be helpful references in the future.
 
+* [Syllabus](background/../resources/n3c_short_course_syllabus_jun2022.pdf)
+
 ### Daily Sessions
 
 #### Session 1
