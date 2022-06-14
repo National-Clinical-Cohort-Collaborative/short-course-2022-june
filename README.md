@@ -12,6 +12,8 @@ Material Online
 
 * [Analytical Tools](background/analytical-tools.md): To be productive in the N3C Enclave during this short course, we recommend that you (a) are comfortable with basic SQL and (b) know at least a little Python or R.
 
+* [Assets](background/assets.md): A running list of the links that that might be helpful references in the future.
+
 ### Daily Sessions
 
 #### Session 1
