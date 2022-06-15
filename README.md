@@ -28,7 +28,10 @@ Material Online
 * Assignment: see pages 4-5 in the Syllabus (link above)
 
 
-#### Session 2
+#### Session 2 (optional)
+* Office Hours and Open Discussion
+* Assignment: same as Session 1
+
 
 #### Session 3
 
