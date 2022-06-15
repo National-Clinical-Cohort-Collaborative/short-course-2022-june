@@ -45,7 +45,7 @@ Assets
 
 * [Google Drive directory](https://drive.google.com/drive/u/0/folders/1Que747jAtDGCR4dTQSjQZwXTirayQnwJ)
 
-Tentative Agenda
+Agenda
 --------------------------
 
 <img src="resources/agenda-screenshot-2022-06-14.png" alt="agenda-screenshot">
