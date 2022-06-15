@@ -56,5 +56,6 @@ OMOP describes the structure of the dataset of the N3C source tables
 Machine Learning with EHR
 -----------
 
-* ML primer for clinicians: https://histalk2.com/2018/10/17/a-machine-learning-primer-for-clinicians-part-1/
+* [*Artificial Intelligence in Health Care: The Hope, the Hype, the Promise, the Peril*](https://nam.edu/wp-content/uploads/2019/12/AI-in-Health-Care-PREPUB-FINAL.pdf), 2019. edited by Matheny Israni, Ahmed, & Whicher
+* [ML primer for clinicians](https://histalk2.com/2018/10/17/a-machine-learning-primer-for-clinicians-part-1/) by Alexander Scarlat
 * [*Statistics and Machine Learning Methods for EHR Data: From Data Extraction to Data Analytics*](https://www.taylorfrancis.com/books/edit/10.1201/9781003030003/statistics-machine-learning-methods-ehr-data-hulin-wu-jose-miguel-yamal-ashraf-yaseen-vahed-maroufy), 2020. Edited By Hulin Wu, Jose-Miguel Yamal, Ashraf Yaseen, Vahed Maroufy
