@@ -52,3 +52,9 @@ OMOP describes the structure of the dataset of the N3C source tables
 * [Atlas](https://atlas-demo.ohdsi.org/): an OHDSI tool "to provide a unified interface to patient level data and analytics".
 
 * [OHDSI Data standardization](https://ohdsi.org/data-standardization/): "the critical process of bringing data into a common format that allows for collaborative research, large-scale analytics, and sharing of sophisticated tools and methodologies."
+
+Machine Learning with EHR
+-----------
+
+* ML primer for clinicians: https://histalk2.com/2018/10/17/a-machine-learning-primer-for-clinicians-part-1/
+* [*Statistics and Machine Learning Methods for EHR Data: From Data Extraction to Data Analytics*](https://www.taylorfrancis.com/books/edit/10.1201/9781003030003/statistics-machine-learning-methods-ehr-data-hulin-wu-jose-miguel-yamal-ashraf-yaseen-vahed-maroufy), 2020. Edited By Hulin Wu, Jose-Miguel Yamal, Ashraf Yaseen, Vahed Maroufy
