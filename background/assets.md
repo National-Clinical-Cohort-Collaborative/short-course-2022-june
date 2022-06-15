@@ -3,6 +3,13 @@ N3C Assets
 
 A running list of the links that we introduce to the students that might be helpful references in the future.
 
+Specific to Short Course
+----------
+
+* [Malnutrition Workspace](https://unite.nih.gov/workspace/compass/view/ri.compass.main.folder.2091276a-fa02-4612-b939-6952082ecfa2): This Enclave workspace will be the focus of this week's class
+
+* [Short Course GitHub repo](https://github.com/National-COVID-Cohort-Collaborative/short-course-2022-june): contains the lessons and resources we'll use this week.  Remember that patient data does NOT belong here (*i.e.*, keep it in Enclave).
+
 Specific to N3C --public material
 ----------
 
