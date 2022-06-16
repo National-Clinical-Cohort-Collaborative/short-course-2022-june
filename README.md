@@ -35,6 +35,7 @@ Material Online
 #### Session 3
 
 * [Session 3 Slides](lessons/session-3/Session3.pdf) (and [pptx](lessons/session-3/Session3.pptx)) by [Jerrod Anzalone](https://www.linkedin.com/in/alfred-jerrod-anzalone-1b88b31b8/)
+* [Session 3 Exercises & Homework](lessons/session-3/session-3-exercises-and-homework.pdf) (and [docx](lessons/session-3/session-3-exercises-and-homework.pptx)) by [Jerrod Anzalone](https://www.linkedin.com/in/alfred-jerrod-anzalone-1b88b31b8/)
 * [CSV containing Malnutrition Concept Sets](lessons/session-3/malnutrition_concept_sets.csv)
 
 #### Session 4
