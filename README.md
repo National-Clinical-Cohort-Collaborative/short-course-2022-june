@@ -27,13 +27,14 @@ Material Online
   * This 31 minute training module video covers everything we covered in class today and more. It also introduces using templates from the Knowledge Store, though the template search interface has changed since the recording.
 * Assignment: see pages 4-5 in the Syllabus (link above)
 
-
 #### Session 2 (optional)
+
 * Office Hours and Open Discussion
 * Assignment: same as Session 1
 
-
 #### Session 3
+
+* [CSV containing Malnutrition Concept Sets](lessons/session-3/malnutrition_concept_sets.csv)
 
 #### Session 4
 
