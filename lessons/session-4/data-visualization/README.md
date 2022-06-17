@@ -47,7 +47,6 @@ Steps
 
         ```r
         year_age_boxplot_1 <- function (pt_thinned) {
-            
             # Execute the `library()` lines separately from the others --when debugging in the console (ctrl+shift+enter).
             library(magrittr)
             library(ggplot2)
@@ -69,11 +68,10 @@ Steps
             )
 
             g <-
-            ggplot(ds, aes(x = year_f, y = age)) +
-            geom_boxplot()
+                ggplot(ds, aes(x = year_f, y = age)) +
+                geom_boxplot()
             
             print(g)
-
 
             # Return something, preferrably the dataset underneath the graph.
             #    Don't end with `print()`.
@@ -136,9 +134,44 @@ Steps
 
 1. Once you're comfortable with the basics, here are some tools & techniques to help you manage the complexity & volume
 
-    * "Global Code".
     * Tweaking the Spark Environment, including adding R packages.
+
     * [Saving an R object](https://unite.nih.gov/workspace/documentation/product/code-workbook/r-raw-file-access) that was the result of an expensive calculation.  Calculate it once, and let multiple downstream R transforms focus on a smaller role.
+
+    * "Global Code", such as
+
+        ```r
+        load_packages <- function () {
+          library(magrittr)
+          library(ggplot2)
+          library(survey)
+        }
+
+        predictors_1  <- "asthma * tx + smoking_ever + bmi_cut6 + gender_male + race_v2"
+
+        tidy_model <- function (m, model_title) {
+          m %>%
+            broom::tidy() %>%
+            dplyr::mutate(
+              model = model_title
+            ) %>%
+            tibble::as_tibble() %>%
+            dplyr::mutate_if(is.numeric, round, 5)
+        }
+
+        palette_dark <- c( # http://colrd.com/image-dna/29746/
+        "(Intercept)"     = "gray50",   # Same color as reference group below
+        "none documented" = "gray50",
+        "saba"            = "#bfa9c4",  # lavender
+        "nasal"           = "#45a79e",  # green
+        "inhaled"         = "#bfc269",  # yellow green
+        "systemic"        = "#f46b4f",  # orange
+        "biologic"        = "#4287f5",  # blue
+        "both"            = "#646596",  # purple
+        )
+
+        palette_light <- scales::alpha(palette_dark, alpha = .5)
+        ```
 
 Resources
 --------------
