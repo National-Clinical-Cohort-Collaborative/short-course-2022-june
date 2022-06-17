@@ -134,6 +134,12 @@ Steps
 
 1. Once things are stable, remove the thinning code in `pt_thinned`, and rename it to something like `pt`.  It's a little tedious, but reduces your chance of forgetting.
 
+1. Once you're comfortable with the basics, here are some tools & techniques to help you manage the complexity & volume
+
+    * "Global Code".
+    * Tweaking the Spark Environment, including adding R packages.
+    * [Saving an R object](https://unite.nih.gov/workspace/documentation/product/code-workbook/r-raw-file-access) that was the result of an expensive calculation.  Calculate it once, and let multiple downstream R transforms focus on a smaller role.
+
 Resources
 --------------
 
