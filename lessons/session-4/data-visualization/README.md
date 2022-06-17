@@ -56,16 +56,16 @@ Steps
             }
 
             ds <-
-            pt_thinned %>%
-            tibble::as_tibble() %>%
-            dplyr::select(
-                age   = age_at_covid,
-                year  = covid_year,
-            ) %>%
-            dplyr::mutate(
-                # age   = as.integer(age), # Cast from a 64-bit to 32-bit integer
-                year_f  = factor(year)
-            )
+                pt_thinned %>%
+                tibble::as_tibble() %>%
+                dplyr::select(
+                    age   = age_at_covid,
+                    year  = covid_year,
+                ) %>%
+                dplyr::mutate(
+                    # age   = as.integer(age), # Cast from a 64-bit to 32-bit integer
+                    year_f  = factor(year)
+                )
 
             g <-
                 ggplot(ds, aes(x = year_f, y = age)) +
@@ -95,32 +95,32 @@ Steps
             library(ggplot2)
 
             if (class(pt_thinned) != "data.frame") {
-            stop("The incoming dataset is NOT an R data.frame.")
+                stop("The incoming dataset is NOT an R data.frame.")
             }
 
             ds_year_severity <-
-            pt_thinned %>%
-            tibble::as_tibble() %>%
-            dplyr::select(
-                data_partner_id,
-                year  = covid_year,
-                severity_type
-            ) %>%
-            dplyr::mutate(
-                year_f  = factor(year)
-            ) %>%
-            dplyr::group_by(year_f, severity_type) %>%
-            dplyr::summarize(
-                pt_count       = dplyr::n(),
-                partner_count  = dplyr::n_distinct(data_partner_id),
-            ) %>%
-            dplyr::ungroup()
+                pt_thinned %>%
+                tibble::as_tibble() %>%
+                dplyr::select(
+                    data_partner_id,
+                    year              = covid_year,
+                    severity_type,
+                ) %>%
+                dplyr::mutate(
+                    year_f  = factor(year)
+                ) %>%
+                dplyr::group_by(year_f, severity_type) %>%
+                dplyr::summarize(
+                    pt_count       = dplyr::n(),
+                    partner_count  = dplyr::n_distinct(data_partner_id),
+                ) %>%
+                dplyr::ungroup()
 
             g <-
-            ds_year_severity %>%
-            ggplot(aes(x = severity_type, y = pt_count)) +
-            geom_bar(stat = "identity") +
-            facet_wrap("year_f")
+                ds_year_severity %>%
+                ggplot(aes(x = severity_type, y = pt_count)) +
+                geom_bar(stat = "identity") +
+                facet_wrap("year_f")
 
             print(g)
 
