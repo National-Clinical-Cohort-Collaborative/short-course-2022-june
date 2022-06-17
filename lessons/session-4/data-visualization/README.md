@@ -79,7 +79,7 @@ Steps
         }
         ```
 
-1. Create an R transform called `year_age_boxplot_1`
+1. Create an R transform called `year_severity_1`
 
     * Toggle "Save as dataset".
 
