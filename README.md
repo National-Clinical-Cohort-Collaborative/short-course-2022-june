@@ -42,6 +42,7 @@ Material Online
 
 #### Session 4
 
+* [Data Analysis](lessons/session-4/data-analysis/exercise.pdf) (and [pptx](lessons/session-4/data-analysis/exercise.docx)) by [Jerrod Anzalone](https://www.linkedin.com/in/alfred-jerrod-anzalone-1b88b31b8/)
 * [Data Validation](lessons/session-4/data-validation/README.md) by [Will Beasley](https://ouhsc.edu/bbmc/team/#willbeasley)
 * [Data Visualization](lessons/session-4/data-visualization/README.md) by [Will Beasley](https://ouhsc.edu/bbmc/team/#willbeasley)
 
